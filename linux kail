@@ -1,6 +1,6 @@
 root@kali:~# pwd
 /root
-root@kali:~# cd ..
+root@kali:~# cd ..      /回到上一層目錄/
 root@kali:/# pwd
 /
 root@kali:/# ls
