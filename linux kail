@@ -29,6 +29,11 @@ pwd為print name of current/working directory的縮寫
 
 #pwd -L
 
+測驗:說明底下程式的意義
+root@kali:/bin# cd ..
+root@kali:/# cd
+root@kali:~# 
+ㄏㄛ
 /取自https://hungwei0331.pixnet.net/blog/post/351125458-linux---cd%E6%8C%87%E4%BB%A4%28%E5%88%87%E6%8F%9B%E5%B7%A5%E4%BD%9C%E7%9B%AE%E9%8C%84%29
 cd為Change Directory的縮寫, 是用來變換工作目錄的指令。
 
