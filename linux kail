@@ -28,3 +28,36 @@ pwd為print name of current/working directory的縮寫
 3. 目錄連接鏈結時，輸出連接路徑
 
 #pwd -L
+
+/取自https://hungwei0331.pixnet.net/blog/post/351125458-linux---cd%E6%8C%87%E4%BB%A4%28%E5%88%87%E6%8F%9B%E5%B7%A5%E4%BD%9C%E7%9B%AE%E9%8C%84%29
+cd為Change Directory的縮寫, 是用來變換工作目錄的指令。
+
+目錄的表示方式可以使用絕對路徑與相對路徑。
+
+語法：cd [options] [dir]
+
+ 
+
+1. 切換工作路徑
+
+ cd /home/username/Desktop
+
+2. 切換至使用者家目錄
+
+#cd ~username or #cd ~ 等同於 #cd /home/username
+
+3. 回到家目錄 /*不加上任何路徑，也是回到自己家目錄*/
+
+# cd
+
+4. 回上一層目錄
+
+# cd ..
+
+5. 絕對路徑寫法 /*指定要前往的完整路徑名稱*/
+
+# cd /Desktop/folder1
+
+6. 相對路徑寫法 /* 相對路徑的寫法，由/Desktop/folder1切換至/Desktop/folder2*/
+
+# cd ../folder2
