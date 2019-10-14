@@ -1,6 +1,6 @@
 root@kali:~# cd python
-root@kali:~/python# gedit dfdfdf
-root@kali:~/python# python3 dfdfdf
+root@kali:~/python# gedit test
+root@kali:~/python# python3 test
 hello!
 89.4
 abcdef
