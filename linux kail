@@ -33,11 +33,7 @@ pwd為print name of current/working directory的縮寫
 cd為Change Directory的縮寫, 是用來變換工作目錄的指令。
 
 目錄的表示方式可以使用絕對路徑與相對路徑。
-
 語法：cd [options] [dir]
-
- 
-
 1. 切換工作路徑
 
  cd /home/username/Desktop
