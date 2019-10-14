@@ -1,0 +1,11 @@
+root@kali:~# cd python
+root@kali:~/python# mkdir /test1
+root@kali:~/python# gedit dfdfdf
+root@kali:~/python# cd dfdfdf
+bash: cd: dfdfdf: Not a directory
+root@kali:~/python# python3 dfdfdf
+hello!
+89.4
+abcdef
+ant
+root@kali:~/python# 
