@@ -29,7 +29,7 @@ lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
 
 
                                                                                                 ip位置:127.17.0.1
-                             /會考                                   mtu 1500
+                         /    會考                                   mtu 1500
                                                                    (最大傳輸單元) 
-                        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255/
+                        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255          /
                                          (遮罩)                (廣播)
