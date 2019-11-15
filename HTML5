@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>文档标题</title>
+</head>
+ 
+<body>
+文档内容......
+</body>
+ 
+</html>
+
+
+<html>	代表HTML 或XHTML 文檔的根。 其他所有元素必須是這個元素的子節點。
+<head>	代表關於文檔元數據的一個集合，包括腳本或樣式表的鏈接或內容。
+<title>	定義文檔的標題，將顯示在瀏覽器的標題欄或標籤頁上。 該元素只能包含文本，包含的標籤不會被解釋。
+<base>	定義頁面上相對URL 的基準URL。
+<link>	用於鏈接外部的CSS 到該文檔。
+<meta>	定義其他HTML 元素無法描述的元數據。
+<style>	用於內聯CSS。
